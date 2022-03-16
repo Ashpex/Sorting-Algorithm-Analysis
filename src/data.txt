@@ -1,0 +1,33 @@
+Data order: Random
+Seclection Sort:	34365 ms
+Merge Sort:	722 ms
+Heap Sort:	1288 ms
+Quick Sort:	707 ms
+Bubble Sort:	26436 ms
+Insertion Sort:	5997 ms
+Binary Insertion Sort:	4349 ms
+==================================================================
+Seclection Sort:	107520 ms
+Merge Sort:	1571 ms
+Heap Sort:	2840 ms
+Quick Sort:	1509 ms
+Bubble Sort:	301648 ms
+Insertion Sort:	66608 ms
+Binary Insertion Sort:	44748 ms
+==================================================================
+Seclection Sort:	960496 ms
+Merge Sort:	5144 ms
+Heap Sort:	9788 ms
+Quick Sort:	4485 ms
+Bubble Sort:	2985792 ms
+Insertion Sort:	587154 ms
+Binary Insertion Sort:	388116 ms
+==================================================================
+Seclection Sort:	10628419 ms
+Merge Sort:	19646 ms
+Heap Sort:	39961 ms
+Quick Sort:	17404 ms
+Bubble Sort:	37911134 ms
+Insertion Sort:	7560376 ms
+Binary Insertion Sort:	4707722 ms
+==================================================================
